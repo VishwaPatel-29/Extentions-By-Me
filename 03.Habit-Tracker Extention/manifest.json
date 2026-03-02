@@ -1,0 +1,10 @@
+{
+    "name" : "Habit Tracker Calander Extention",
+    "version" : "1.0.0",
+    "description" : "Making Habit Tracker Clander Through Extention",
+    "manifest_version" : 3,
+    "action" : {
+        "default_icon" : "Calander Icon.png",
+        "default_popup" : "Habit Tracker.html"
+    }
+}
