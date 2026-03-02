@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#maintext{
+    font-size: 35px;
+    font-family:system-ui, 'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 40px;
+}
+
+.main{
+    background-color: aliceblue;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.addhabit{
+    font-size: 20px;
+}
+
+button#btn1{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 2px;
+    margin-left: 20px;
+}
+
+.cr1{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.cr2{
+    margin-top: -20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.cr3{
+    margin-top: -20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.cr4{
+    margin-top: -20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.cr5{
+    margin-top: -20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+button.day-btn{
+    background-color: lightslategray;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+.remindermain{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.reminder{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 25px;
+    margin-top: -18px;
+    height: 100px;
+    width: 30px;
+}
+
+.rtext{
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+.streak{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-top: -45px;
+    font-size: 20px;
+}
+
+.text{
+    font-size: 30px;
+    margin: 20px;
+}
+
+.habit-dropdown{
+    height: 35px;
+}
