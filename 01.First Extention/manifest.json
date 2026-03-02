@@ -1,0 +1,10 @@
+{
+    "name" : "First Extention Example",
+    "version" : "1.0.0",
+    "description" : "First Time I am Making This Extention From The Scratch",
+    "manifest_version" : 3,
+    "action" : {
+        "default_icon" : "iconimage.png",
+        "default_popup" : "Extention.html"
+    }
+}
